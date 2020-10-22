@@ -3,3 +3,4 @@
 **Project 2 :** Build a model which predict the onset of diabetes based on diagnostic measures. \
 **Project 3 :** Build a model which predict if the client will subscribe (1/0) a term deposit (variable y) in Portuguese banking institution. \
 **Project 4 :** Build a model using **k-Nearest Neighbors algorithm** to predict whether the patients in the "Pima Indians Diabetes Dataset" have diabetes or not.
+**Project 5 :** Build a model using **Decision Tree Classifier** to predict whether the patients in the "Pima Indians Diabetes Dataset" have diabetes or not.
